@@ -1,0 +1,89 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-*
+
+# Language specific ignores
+
+# JavaScript/Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+.nyc_output
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# C#/.NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+packages/
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+.DS_Store
+
+# Exercism specific
+.exercism/
+.solution.json
+
+# Test outputs and reports
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+junit.xml
+test-results/
+TestResults/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+Exercism-CLI
