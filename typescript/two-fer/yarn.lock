@@ -1467,9 +1467,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@exercism/typescript-hello-world@workspace:.":
+"@exercism/typescript-two-fer@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@exercism/typescript-hello-world@workspace:."
+  resolution: "@exercism/typescript-two-fer@workspace:."
   dependencies:
     "@exercism/babel-preset-typescript": "npm:^0.6.0"
     "@exercism/eslint-config-typescript": "npm:^0.8.0"
